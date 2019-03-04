@@ -21,14 +21,15 @@ Main paper:
  DOI: https://doi.org/10.1016/j.future.2019.02.028
  _____________________________________________________
 
-  Author, inventor and programmer: Ali Asghar Heidari,
+  Author, inventor and programmer: Ali Asghar Heidari
   PhD research intern, Department of Computer Science, School of Computing, National University of Singapore, Singapore
   Exceptionally Talented Ph. DC funded by Iran's National Elites Foundation (INEF), University of Tehran
-  03-03-2019
-
-  e-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com
-  e-Mail (Singapore): aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
-    Researchgate: https://www.researchgate.net/profile/Ali_Asghar_Heidari 
+  
+  e-Mail: as_heidari@ut.ac.ir 
+          aliasghar68@gmail.com
+  e-Mail (Singapore): aliasgha@comp.nus.edu.sg
+                      t0917038@u.nus.edu
+  Researchgate: https://www.researchgate.net/profile/Ali_Asghar_Heidari 
 
  _____________________________________________________
   Co-author and Advisor: Seyedali Mirjalili
