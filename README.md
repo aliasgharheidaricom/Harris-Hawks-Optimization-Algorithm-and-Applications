@@ -19,16 +19,15 @@ Main paper:
  Ali Asghar Heidari, Seyedali Mirjalili, Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, Huiling Chen
  Future Generation Computer Systems, 
  DOI: https://doi.org/10.1016/j.future.2019.02.028
- _____________________________________________________
+  _____________________________________________________
   Author, inventor and programmer: Ali Asghar Heidari
   PhD research intern, Department of Computer Science, School of Computing, National University of Singapore, Singapore
   Exceptionally Talented Ph. DC funded by Iran's National Elites Foundation (INEF), University of Tehran
-  
-  e-Mail: as_heidari@ut.ac.ir 
-          aliasghar68@gmail.com
-  e-Mail (Singapore): aliasgha@comp.nus.edu.sg
-                      t0917038@u.nus.edu
-  Researchgate: https://www.researchgate.net/profile/Ali_Asghar_Heidari 
+
+         e-Mail: aliasghar68@gmail.com, as_heidari@ut.ac.ir
+                 aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
+
+       Homepage: https://www.researchgate.net/profile/Ali_Asghar_Heidari  
  _____________________________________________________
   Co-author and Advisor: Seyedali Mirjalili
 
