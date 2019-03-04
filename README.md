@@ -22,8 +22,6 @@ Main paper:
  _____________________________________________________
 
   Author, inventor and programmer: Ali Asghar Heidari
-  PhD research intern, Department of Computer Science, School of Computing, National University of Singapore, Singapore
-  Exceptionally Talented Ph. DC funded by Iran's National Elites Foundation (INEF), University of Tehran
   
   e-Mail: as_heidari@ut.ac.ir 
           aliasghar68@gmail.com
