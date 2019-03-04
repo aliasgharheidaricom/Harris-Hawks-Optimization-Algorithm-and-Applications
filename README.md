@@ -9,3 +9,32 @@ http://www.alimirjalili.com/HHO.html
 and http://www.evo-ml.com/2019/03/02/hho.  
 
 https://www.researchgate.net/project/Harris-hawks-optimization-HHO-Algorithm-and-applications
+https://www.researchgate.net/profile/Ali_Asghar_Heidari
+
+Main paper:
+ Harris hawks optimization: Algorithm and applications
+ Ali Asghar Heidari, Seyedali Mirjalili, Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, Huiling Chen
+ Future Generation Computer Systems, 
+ DOI: https://doi.org/10.1016/j.future.2019.02.028
+ _____________________________________________________
+
+  Author, inventor and programmer: Ali Asghar Heidari,
+  PhD research intern, Department of Computer Science, School of Computing, National University of Singapore, Singapore
+  Exceptionally Talented Ph. DC funded by Iran's National Elites Foundation (INEF), University of Tehran
+  03-03-2019
+
+  Researchgate: https://www.researchgate.net/profile/Ali_Asghar_Heidari
+
+  e-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com,
+  e-Mail (Singapore): aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
+ _____________________________________________________
+  Co-author and Advisor: Seyedali Mirjalili
+
+         e-Mail: ali.mirjalili@gmail.com
+                 seyedali.mirjalili@griffithuni.edu.au
+
+       Homepage: http://www.alimirjalili.com
+ _____________________________________________________
+  Co-authors: Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, and Hui-Ling Chen
+
+       Homepage: http://www.evo-ml.com/2019/03/02/hho/
