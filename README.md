@@ -15,6 +15,7 @@ https://www.researchgate.net/profile/Ali_Asghar_Heidari
 
  _____________________________________________________
 Main paper:
+
  Harris hawks optimization: Algorithm and applications
  Ali Asghar Heidari, Seyedali Mirjalili, Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, Huiling Chen
  Future Generation Computer Systems, 
