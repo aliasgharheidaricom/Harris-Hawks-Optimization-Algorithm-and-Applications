@@ -8,7 +8,7 @@ In this paper, a novel population-based, nature-inspired optimization paradigm i
  _____________________________________________________
 
 Source codes of HHO and related supplementary materials are publicly available at 
-http://www.alimirjalili.com/HHO.html 
+https://aliasgharheidari.com/HHO.html
 http://www.evo-ml.com/2019/03/02/hho.  
 https://www.researchgate.net/project/Harris-hawks-optimization-HHO-Algorithm-and-applications
 https://www.researchgate.net/profile/Ali_Asghar_Heidari
@@ -35,13 +35,7 @@ Main paper:
 
        Homepage: https://www.researchgate.net/profile/Ali_Asghar_Heidari  
  _____________________________________________________
-  Co-author and Advisor: Seyedali Mirjalili
 
-         e-Mail: ali.mirjalili@gmail.com
-                 seyedali.mirjalili@griffithuni.edu.au
-
-       Homepage: http://www.alimirjalili.com
- _____________________________________________________
   Co-authors: Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, and Hui-Ling Chen
 
        Homepage: http://www.evo-ml.com/2019/03/02/hho/
