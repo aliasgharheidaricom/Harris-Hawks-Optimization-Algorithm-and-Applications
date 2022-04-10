@@ -4,6 +4,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 
+<div align="center">
+  <img src="https://production-media.paperswithcode.com/methods/Harris_Hawk_OptimizationHHO_JTV1hc3.jpg">
+</div>
+
+
 # Harris hawks optimization: Algorithm and applications 
 Harris hawks optimization (HHO)   
 
