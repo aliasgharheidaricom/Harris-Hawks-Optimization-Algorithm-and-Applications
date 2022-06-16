@@ -12,13 +12,7 @@
 %  e-Mail: as_heidari@ut.ac.ir, aliasghar68@gmail.com,
 %  e-Mail (Singapore): aliasgha@comp.nus.edu.sg, t0917038@u.nus.edu
 % _____________________________________________________
-%  Co-author and Advisor: Seyedali Mirjalili
-%
-%         e-Mail: ali.mirjalili@gmail.com
-%                 seyedali.mirjalili@griffithuni.edu.au
-%
-%       Homepage: http://www.alimirjalili.com
-% _____________________________________________________
+
 %  Co-authors: Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, and Hui-Ling Chen
 
 %       Homepage: http://www.evo-ml.com/2019/03/02/hho/
