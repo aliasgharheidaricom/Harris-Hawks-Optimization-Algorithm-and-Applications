@@ -11,11 +11,7 @@
 ![Watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications?style=social)
 ![Activity](https://img.shields.io/github/commit-activity/m/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 ![Contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![Version](https://img.shields.io/github/v/release/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![Release Date](https://img.shields.io/github/release-date/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 ![Dependencies](https://img.shields.io/librariesio/github/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![Code Quality](https://img.shields.io/codacy/grade/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![Coverage](https://img.shields.io/codecov/c/github/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 
 
 <div align="center">
