@@ -51,8 +51,6 @@ The algorithm operates in three phases, shifting between exploration and exploit
 
 ## Algorithm Steps
 
-### Step-by-Step Explanation
-
 | **Step**               | **Description**                                                                                           |
 |------------------------|----------------------------------------------------------------------------------------------------------|
 | **1. Initialization**  | Hawks (candidate solutions) are initialized randomly in the search space.                               |
