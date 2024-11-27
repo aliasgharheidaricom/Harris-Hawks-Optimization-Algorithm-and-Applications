@@ -26,24 +26,6 @@
   HHO combines adaptive exploration and exploitation strategies to solve problems in fields such as machine learning, engineering, and resource allocation.
 </p>
 
-<h1 align="center" style="font-family: Arial, sans-serif; font-size: 48px; font-weight: bold; color: #2C3E50;">Harris Hawks Optimization (HHO): Algorithm and Applications</h1>
-
-<div align="center">
-  <img src="https://production-media.paperswithcode.com/methods/Harris_Hawk_OptimizationHHO_JTV1hc3.jpg" alt="Harris Hawks Optimization" style="max-width: 100%; height: auto; border-radius: 8px;">
-</div>
-
-<p align="center" style="font-family: Arial, sans-serif; font-size: 18px; color: #34495E; line-height: 1.6;">
-  The <strong style="font-size: 20px;">Harris Hawks Optimization (HHO)</strong> algorithm is inspired by the cooperative hunting strategies of Harris' hawks. It mimics their dynamic tactics for trapping prey, making it an efficient method for solving complex optimization problems.
-</p>
-
-<hr style="border: 0; border-top: 3px solid #BDC3C7;">
-
-<h2 style="font-family: Arial, sans-serif; font-size: 32px; color: #2C3E50; font-weight: bold; text-align: center;">About the Algorithm</h2>
-<p style="font-family: Arial, sans-serif; font-size: 18px; color: #34495E; text-align: center; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-  The Harris Hawks Optimization (HHO) algorithm is inspired by the cooperative hunting strategies of Harris' hawks. This algorithm mimics the dynamic tactics of these birds in trapping prey, making it an effective method for solving optimization problems. Due to its flexibility, it can be applied to various complex problems such as engineering, machine learning, and resource allocation.
-</p>
-
-<hr style="border: 0; border-top: 2px solid #BDC3C7;">
 
 <h2 style="font-family: Arial, sans-serif; font-size: 28px; color: #2C3E50; font-weight: bold; text-align: center;">Key Features</h2>
 <ul style="font-family: Arial, sans-serif; font-size: 18px; color: #34495E; line-height: 1.8; list-style-type: none; padding-left: 0; text-align: center;">
@@ -52,27 +34,6 @@
   <li>💡 <strong>Versatile</strong>: Applicable to continuous, combinatorial, and multi-objective optimization.</li>
   <li>🔄 <strong>Dynamic Exploration & Exploitation</strong>: Balances exploration and exploitation for robust performance.</li>
 </ul>
-
-<hr style="border: 0; border-top: 2px solid #BDC3C7;">
-
-<h2 style="font-family: Arial, sans-serif; font-size: 28px; color: #2C3E50; font-weight: bold; text-align: center;">Applications</h2>
-<p style="font-family: Arial, sans-serif; font-size: 18px; color: #34495E; text-align: center; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-  The HHO algorithm has been successfully applied in various fields such as:
-</p>
-<ul style="font-family: Arial, sans-serif; font-size: 18px; color: #34495E; text-align: center; list-style-type: none; padding-left: 0;">
-  <li>• Engineering Design Optimization</li>
-  <li>• Feature Selection in Machine Learning</li>
-  <li>• Resource Allocation Problems</li>
-  <li>• Multi-objective Optimization Tasks</li>
-</ul>
-
-<hr style="border: 0; border-top: 2px solid #BDC3C7;">
-
-<h2 style="font-family: Arial, sans-serif; font-size: 28px; color: #2C3E50; font-weight: bold; text-align: center;">Why Choose HHO?</h2>
-<p style="font-family: Arial, sans-serif; font-size: 18px; color: #34495E; text-align: center; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-  HHO stands out due to its simplicity, efficiency, and ability to tackle highly complex optimization problems. It offers an effective balance between exploration and exploitation, ensuring optimal performance across various tasks. It is a powerful tool for researchers and engineers looking to optimize real-world challenges.
-</p>
-
 
 ---
 
