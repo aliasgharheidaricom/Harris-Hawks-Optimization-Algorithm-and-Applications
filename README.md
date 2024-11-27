@@ -1,8 +1,22 @@
 ![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Code Size](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Repo Size](https://img.shields.io/github/repo-size/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Languages Count](https://img.shields.io/github/languages/count/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Last Commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Open Issues](https://img.shields.io/github/issues/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Closed Issues](https://img.shields.io/github/issues-closed/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Pull Requests](https://img.shields.io/github/issues-pr/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Forks](https://img.shields.io/github/forks/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications?style=social)
+![Stars](https://img.shields.io/github/stars/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications?style=social)
+![Watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications?style=social)
+![Activity](https://img.shields.io/github/commit-activity/m/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Version](https://img.shields.io/github/v/release/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Release Date](https://img.shields.io/github/release-date/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Dependencies](https://img.shields.io/librariesio/github/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Code Quality](https://img.shields.io/codacy/grade/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+![Coverage](https://img.shields.io/codecov/c/github/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
+
 
 <div align="center">
   <img src="https://production-media.paperswithcode.com/methods/Harris_Hawk_OptimizationHHO_JTV1hc3.jpg">
