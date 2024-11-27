@@ -19,16 +19,8 @@
 </div>
 
 ## 📚 **Abstract**
-In this paper, a novel population-based, nature-inspired optimization paradigm is proposed, which is called Harris Hawks Optimizer (HHO). The main inspiration of HHO is the cooperative behavior and chasing style of Harris’ hawks in nature called surprise pounce. In this intelligent strategy, several hawks cooperatively pounce a prey from different directions in an attempt to surprise it. Harris hawks can reveal a variety of chasing patterns based on the dynamic nature of scenarios and escaping patterns of the prey. This work mathematically mimics such dynamic patterns and behaviors to develop an optimization algorithm. The effectiveness of the proposed HHO optimizer is checked, through a comparison with other nature-inspired techniques, on 29 benchmark problems and several real-world engineering problems. The statistical results and comparisons show that the HHO algorithm provides very promising and occasionally competitive results compared to well-established metaheuristic techniques. Source codes of HHO are publicly available at http://www.alimirjalili.com/HHO.html and http://www.evo-ml.com/2019/03/02/hho.
+In this paper, a novel population-based, nature-inspired optimization paradigm is proposed, which is called Harris Hawks Optimizer (HHO). The main inspiration of HHO is the cooperative behavior and chasing style of Harris’ hawks in nature called surprise pounce. In this intelligent strategy, several hawks cooperatively pounce a prey from different directions in an attempt to surprise it. Harris hawks can reveal a variety of chasing patterns based on the dynamic nature of scenarios and escaping patterns of the prey. This work mathematically mimics such dynamic patterns and behaviors to develop an optimization algorithm. The effectiveness of the proposed HHO optimizer is checked, through a comparison with other nature-inspired techniques, on 29 benchmark problems and several real-world engineering problems. The statistical results and comparisons show that the HHO algorithm provides very promising and occasionally competitive results compared to well-established metaheuristic techniques.
 
-
-<p align="center">
-  <strong>The <span style="color:#E24E1B;">Harris Hawks Optimization (HHO)</span> algorithm</strong> is inspired by the cooperative hunting strategies of Harris' hawks. It mimics their dynamic tactics for trapping prey, making it an efficient method for solving complex optimization problems.
-</p>
-
-<p align="center">
-  HHO combines adaptive exploration and exploitation strategies to solve problems in fields such as machine learning, engineering, and resource allocation.
-</p>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 28px; color: #2C3E50; font-weight: bold; text-align: center;">Key Features</h2>
