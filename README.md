@@ -20,9 +20,6 @@
 
 
 # Harris hawks optimization: Algorithm and applications 
-Harris hawks optimization (HHO)   
-
- # Harris Hawks Optimization (HHO)
 
 The **Harris Hawks Optimization (HHO)** algorithm is inspired by the cooperative hunting strategies of Harris' hawks. It mimics their dynamic tactics for trapping prey, making it an efficient method for solving complex optimization problems.
 
