@@ -11,17 +11,21 @@
 ![Watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications?style=social)
 ![Activity](https://img.shields.io/github/commit-activity/m/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 ![Contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
-![Dependencies](https://img.shields.io/librariesio/github/aliasgharheidaricom/Harris-Hawks-Optimization-Algorithm-and-Applications)
 
+# Harris Hawks Optimization: Algorithm and Applications
 
 <div align="center">
-  <img src="https://production-media.paperswithcode.com/methods/Harris_Hawk_OptimizationHHO_JTV1hc3.jpg">
+  <img src="https://production-media.paperswithcode.com/methods/Harris_Hawk_OptimizationHHO_JTV1hc3.jpg" alt="Harris Hawks Optimization">
 </div>
 
+<p align="center">
+  <strong>The <span style="color:#E24E1B;">Harris Hawks Optimization (HHO)</span> algorithm</strong> is inspired by the cooperative hunting strategies of Harris' hawks. It mimics their dynamic tactics for trapping prey, making it an efficient method for solving complex optimization problems.
+</p>
 
-# Harris hawks optimization: Algorithm and applications 
+<p align="center">
+  HHO combines adaptive exploration and exploitation strategies to solve problems in fields such as machine learning, engineering, and resource allocation.
+</p>
 
-The **Harris Hawks Optimization (HHO)** algorithm is inspired by the cooperative hunting strategies of Harris' hawks. It mimics their dynamic tactics for trapping prey, making it an efficient method for solving complex optimization problems.
 
 
 ---
