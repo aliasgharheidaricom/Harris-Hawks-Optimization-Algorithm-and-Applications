@@ -37,50 +37,65 @@
 
 ---
 
-## Workflow of HHO
+## 📊 **Algorithm Workflow**
 
-The algorithm operates in three phases, shifting between exploration and exploitation dynamically based on the prey's energy state.
+The algorithm operates in three distinct phases that simulate the hawk’s hunting strategy:
 
-| **Phase**            | **Description**                                                                                  | **Purpose**                                           |
-|-----------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| **Exploration**       | Hawks search broadly by spreading out across the search space.                                   | To discover promising regions of the solution space.  |
-| **Transition**        | Decisions are made based on the prey's energy (problem difficulty) to switch between strategies. | To balance exploration and exploitation.              |
-| **Exploitation**      | Hawks focus on refining solutions near the best-known position (the prey).                       | To converge on the optimal solution efficiently.      |
-
----
-
-## Algorithm Steps
-
-| **Step**               | **Description**                                                                                           |
-|------------------------|----------------------------------------------------------------------------------------------------------|
-| **1. Initialization**  | Hawks (candidate solutions) are initialized randomly in the search space.                               |
-| **2. Fitness Evaluation** | Each hawk's performance is evaluated based on a fitness function specific to the optimization problem. |
-| **3. Best Solution Tracking** | The algorithm tracks the "rabbit" (best solution found so far).                                    |
-| **4. Exploration or Exploitation** | Based on the prey's energy, hawks decide whether to explore or exploit.                       |
-| **5. Dynamic Adjustments** | Hawks adapt their positions using encircling, sudden dives, or random movements.                      |
-| **6. Stopping Criterion** | The process repeats until a stopping condition (e.g., maximum iterations) is met.                     |
-| **7. Output**           | The best solution is returned as the final result.                                                     |
+| **Phase**          | **Description**                                                                                    | **Purpose**                                      |
+|--------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| 🦅 **Exploration**  | Hawks search broadly across the space.                                                              | Discover new regions of the solution space.      |
+| 🔄 **Transition**   | Hawks adjust between exploration and exploitation based on prey's energy (problem difficulty).     | Dynamically balance exploration and exploitation. |
+| 💡 **Exploitation** | Hawks refine solutions near the best-known position.                                                | Converge towards the optimal solution.           |
 
 ---
 
-## Exploration Phase
+## 📝 **Algorithm Steps**
 
-In this phase:
-- Hawks randomly explore different parts of the search space.  
-- Some hawks move to random positions, while others investigate areas close to the best-known solution.  
-This randomness ensures diversity and prevents premature convergence.
+1. **Initialization**: Randomly initialize hawks (candidate solutions) across the search space.
+2. **Fitness Evaluation**: Evaluate each hawk’s fitness based on a domain-specific function.
+3. **Best Solution Tracking**: Track the "rabbit" (best solution) found so far.
+4. **Exploration vs Exploitation**: Hawks decide whether to explore or exploit based on prey’s energy.
+5. **Dynamic Position Updates**: Hawks update their positions using encircling, sudden dives, or random jumps.
+6. **Stopping Criterion**: Continue until a stopping condition is met (e.g., max iterations, target fitness).
+7. **Output**: Return the best solution found as the final result.
 
 ---
 
-## Exploitation Phase
+## 🦅 **Phase Breakdown**
 
-Once a promising solution is found:
-- Hawks use several strategies to refine the solution:  
-  1. **Gradual Encircling**: Hawks gradually close in on the prey.  
-  2. **Sudden Dives**: Hawks make abrupt changes to test nearby solutions.  
-  3. **Direct Attack**: If the prey is "weak," hawks converge aggressively.  
+### 🔍 **Exploration Phase**
 
-These tactics allow fine-tuning without losing flexibility.
+- **Objective**: Explore the search space broadly to find promising regions.
+- **Mechanism**: Hawks move randomly across the search space, promoting diversity and preventing early convergence.
+
+**Key Strategies**:
+- Random movement across unexplored regions.
+- Ensures diverse candidate solutions.
+
+---
+
+### 🔄 **Transition Phase**
+
+- **Objective**: Adapt hawk behavior based on the problem’s difficulty.
+- **Mechanism**: Hawks assess the energy state of the prey and switch between exploration and exploitation.
+
+**Key Strategies**:
+- Dynamic switching between global search and local refinement.
+- Balances the two strategies for optimal performance.
+
+---
+
+### 💡 **Exploitation Phase**
+
+- **Objective**: Refine solutions near the best-known solution.
+- **Mechanism**: Hawks focus their search near the best solution using various fine-tuning techniques.
+
+**Key Strategies**:
+1. **Gradual Encircling**: Hawks gradually close in on the prey (optimal solution).
+2. **Sudden Dives**: Hawks make abrupt moves to test nearby solutions.
+3. **Direct Attack**: Hawks converge aggressively if prey is weak (suboptimal solution).
+
+---
 
 
 ---
