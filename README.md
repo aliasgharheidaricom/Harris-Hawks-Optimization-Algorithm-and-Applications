@@ -97,9 +97,6 @@ The algorithm operates in three distinct phases that simulate the hawk’s hunti
 
 ---
 
-
----
-
 ## Pseudo-Code
 
 Below is a pseudo-code representation of the HHO algorithm for better understanding:
