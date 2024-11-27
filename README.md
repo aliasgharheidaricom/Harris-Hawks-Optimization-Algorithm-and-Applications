@@ -108,14 +108,18 @@ Below is a pseudo-code representation of the HHO algorithm for better understand
 **Ali Asghar Heidari**  
 PhD Research Intern, Department of Computer Science, School of Computing, National University of Singapore, Singapore  
 Exceptionally Talented Ph.D. funded by Iran's National Elites Foundation (INEF), University of Tehran
-**Homepage**: [ResearchGate Profile](https://www.researchgate.net/profile/Ali_Asghar_Heidari)
+
 
 **Email**:  
 - aliasghar68@gmail.com  
 - as_heidari@ut.ac.ir  
-
+**Homepage**: [ResearchGate Profile] (https://www.researchgate.net/profile/Ali_Asghar_Heidari)
 ---
-
+### 📚 **Main Paper**
+**Title**: **Harris Hawks Optimization: Algorithm and Applications**  
+**Authors**: Ali Asghar Heidari, Seyedali Mirjalili, Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, Huiling Chen  
+**Published in**: *Future Generation Computer Systems*  
+**DOI**: [10.1016/j.future.2019.02.028](https://doi.org/10.1016/j.future.2019.02.028)
 ### 📬 **Contact Information**
 
 For further inquiries or collaborations, feel free to reach out to the author or contributors via their emails listed above. You can also follow Ali Asghar Heidari’s work on his [ResearchGate](https://www.researchgate.net/profile/Ali_Asghar_Heidari) page.
