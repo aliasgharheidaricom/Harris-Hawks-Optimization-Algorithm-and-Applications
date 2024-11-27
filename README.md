@@ -114,14 +114,22 @@ Exceptionally Talented Ph.D. funded by Iran's National Elites Foundation (INEF),
 - aliasghar68@gmail.com  
 - as_heidari@ut.ac.ir
   
----
-### 📚 **Main Paper**
-**Title**: **Harris Hawks Optimization: Algorithm and Applications**  
-**Authors**: Ali Asghar Heidari, Seyedali Mirjalili, Hossam Faris, Ibrahim Aljarah, Majdi Mafarja, Huiling Chen  
-**Published in**: *Future Generation Computer Systems*  
-**DOI**: [10.1016/j.future.2019.02.028](https://doi.org/10.1016/j.future.2019.02.028)
----
+### 📄 **How to Cite**
 
+If you use this algorithm in your research, please cite our paper as follows:
+
+```bibtex
+@article{Heidari2019HHO,
+  title={Harris hawks optimization: Algorithm and applications},
+  author={Ali Asghar Heidari and Seyedali Mirjalili and Hossam Faris and Ibrahim Aljarah and Majdi Mafarja and Huiling Chen},
+  journal={Future Generation Computer Systems},
+  volume={97},
+  pages={849--872},
+  year={2019},
+  publisher={Elsevier},
+  doi={10.1016/j.future.2019.02.028},
+}
+```
 ### 📬 **Contact Information**
 
 For further inquiries or collaborations, feel free to reach out to the author or contributors via their emails listed above. You can also follow Ali Asghar Heidari’s work on his [ResearchGate](https://www.researchgate.net/profile/Ali_Asghar_Heidari) page.
